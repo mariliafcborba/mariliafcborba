@@ -15,7 +15,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://logospng.org/download/mysql/mysql-2048.png">   
-   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_NSNZ9lMm9d-2wuM27jX3druMBqogHJJgQ&usqp=CAU">      
+   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png">      
 </div>
   
 ##

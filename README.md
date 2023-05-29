@@ -1,14 +1,15 @@
 ### Olá, eu sou a Marília Borba! 👋
 
-- 🔭 Atualmente estou em transição de carreira
+- 🔭   Atualmente estou em transição de carreira
 - 🌱  Estudando análise de dados com Python e SQL
 - 😄  Pronomes: ela/dela
 - ⚡   Curiosidades: amo dataviz!
 
+
  <div>
   <a href="https://github.com/mariliafcborba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariliafcborba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariliafcborba&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariliafcborba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariliafcborba&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>

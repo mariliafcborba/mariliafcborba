@@ -1,9 +1,9 @@
-### Olá, eu sou a Marília Borba! 👋
+### Olá, meu nome é Marília Borba! 😊
 
-- 🔭   Atualmente estou em transição de carreira
-- 🌱  Estudando análise de dados com Python e SQL
-- 😄  Pronomes: ela/dela
-- ⚡   Curiosidades: amo dataviz!
+- 💻  Atualmente estou em transição de carreira
+- 📚  Estudando análise de dados com Python e SQL
+- 🌷  Pronomes: ela/dela
+- 📊  Curiosidades: amo dataviz!
 
 
  <div>
